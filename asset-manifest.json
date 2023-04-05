@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daily-dose/static/css/main.ec3d931e.css",
+    "main.js": "/daily-dose/static/js/main.0bfc6211.js",
+    "index.html": "/daily-dose/index.html",
+    "main.ec3d931e.css.map": "/daily-dose/static/css/main.ec3d931e.css.map",
+    "main.0bfc6211.js.map": "/daily-dose/static/js/main.0bfc6211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3d931e.css",
+    "static/js/main.0bfc6211.js"
+  ]
+}
